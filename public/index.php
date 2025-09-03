@@ -8,7 +8,7 @@ use Application\Hello;
 <head>
     <meta charset="UTF-8">
     <link href="/css/default.css" rel="stylesheet" />
-    <title>Document</title>
+    <title>Document</title> 
 </head>
 <body>
     <h1>PHP & Mysql</h1>
